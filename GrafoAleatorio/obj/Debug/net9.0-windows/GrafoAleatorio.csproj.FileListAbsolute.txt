@@ -1,0 +1,14 @@
+D:\matematicas discretas\GrafoAleatorio\bin\Debug\net9.0-windows\GrafoAleatorio.exe
+D:\matematicas discretas\GrafoAleatorio\bin\Debug\net9.0-windows\GrafoAleatorio.deps.json
+D:\matematicas discretas\GrafoAleatorio\bin\Debug\net9.0-windows\GrafoAleatorio.runtimeconfig.json
+D:\matematicas discretas\GrafoAleatorio\bin\Debug\net9.0-windows\GrafoAleatorio.dll
+D:\matematicas discretas\GrafoAleatorio\bin\Debug\net9.0-windows\GrafoAleatorio.pdb
+D:\matematicas discretas\GrafoAleatorio\obj\Debug\net9.0-windows\GrafoAleatorio.GeneratedMSBuildEditorConfig.editorconfig
+D:\matematicas discretas\GrafoAleatorio\obj\Debug\net9.0-windows\GrafoAleatorio.AssemblyInfoInputs.cache
+D:\matematicas discretas\GrafoAleatorio\obj\Debug\net9.0-windows\GrafoAleatorio.AssemblyInfo.cs
+D:\matematicas discretas\GrafoAleatorio\obj\Debug\net9.0-windows\GrafoAleatorio.csproj.CoreCompileInputs.cache
+D:\matematicas discretas\GrafoAleatorio\obj\Debug\net9.0-windows\GrafoAleatorio.dll
+D:\matematicas discretas\GrafoAleatorio\obj\Debug\net9.0-windows\refint\GrafoAleatorio.dll
+D:\matematicas discretas\GrafoAleatorio\obj\Debug\net9.0-windows\GrafoAleatorio.pdb
+D:\matematicas discretas\GrafoAleatorio\obj\Debug\net9.0-windows\GrafoAleatorio.genruntimeconfig.cache
+D:\matematicas discretas\GrafoAleatorio\obj\Debug\net9.0-windows\ref\GrafoAleatorio.dll
